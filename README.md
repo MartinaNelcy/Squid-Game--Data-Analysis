@@ -1,6 +1,6 @@
 # Squid-Game-Data-Analysis
 Data analysis project using Python and visualization
-# Squid Game Data Analysis
+
 
 ## About the Project
 This project is inspired by the Squid Game series and focuses on analyzing player survival patterns. I created a dataset and explored how different games affect survival and outcomes.
